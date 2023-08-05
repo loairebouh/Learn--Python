@@ -10,6 +10,6 @@ seconds = days * 24 * 60 * 60
 
 print("You lived For : ")
 print(f"{months} Months.")
-print(f"{weeks} Months.")
-print(f"{days} Months.")
-print(f"{seconds} Months.")
+print(f"{weeks} Weeks.")
+print(f"{days} Days.")
+print(f"{seconds} Seconds.")
